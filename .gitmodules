@@ -1,0 +1,3 @@
+[submodule "gbk-utf8"]
+	path = gbk-utf8
+	url = https://github.com/lytsing/gbk-utf8
